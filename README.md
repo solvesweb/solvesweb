@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Solves</h1>
 <h3 align="center">A passionate frontend developer from Valencia, Spain</h3>
 
-- 🔭 I’m currently working on [The Movies App](https://movie-solves.netlify.app/)
+- 🔭 I’m currently working on [Solves Web](https://solvesweb.com/)
 
 - 🌱 I’m currently learning **Web Development, specifically React.**
 
